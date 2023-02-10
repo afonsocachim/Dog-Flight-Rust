@@ -1,4 +1,4 @@
-# Dog-Flight-Rust
+# Dogfight-Rust
 - Arcade shoot-’em-up action is back! Dogfighting game made in rust and compiled to WebAssembly. 
 - Play online against the red team here: https://dogflght.netlify.app/
 
