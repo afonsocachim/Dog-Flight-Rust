@@ -1,5 +1,5 @@
 # Dogfight-Rust
-- Arcade shoot-’em-up action is back! Dogfighting game made in rust and compiled to WebAssembly. 
+- Arcade shoot-’em-up action is back! Dogfight-Rust is an exciting and intense arcade game written in Rust and compiled to Web Assembly. Players take control of a fighter plane and battle against the computer in a thrilling dogfight. Players must dodge enemy fire and outmaneuver their opponent in an intense fight for their lives
 - Play online against the red team here: https://dogflght.netlify.app/
 
 ![Dogfight-Rust2](https://user-images.githubusercontent.com/96303137/218088691-3abcdede-b38e-4a4e-9088-78589e9da74b.png)
